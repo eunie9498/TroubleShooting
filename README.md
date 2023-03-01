@@ -1,2 +1,3 @@
 # TroubleShooting
-Trouble Shooting 정리 
+
+Trouble Shooting 정리 🤐 
